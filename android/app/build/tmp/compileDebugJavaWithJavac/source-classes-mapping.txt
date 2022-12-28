@@ -1,0 +1,14 @@
+com/chatbot/MainApplication.java
+ com.chatbot.MainApplication
+ com.chatbot.MainApplication$1
+com/chatbot/ReactNativeFlipper.java
+ com.chatbot.ReactNativeFlipper
+ com.chatbot.ReactNativeFlipper$1
+ com.chatbot.ReactNativeFlipper$2
+ com.chatbot.ReactNativeFlipper$2$1
+com/chatbot/MainActivity.java
+ com.chatbot.MainActivity
+com/chatbot/BuildConfig.java
+ com.chatbot.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
